@@ -2,7 +2,9 @@
 
 A weather dashboard built with React, TypeScript, and Vite. Explore current conditions, hourly forecasts, and an interactive map for your selected location.
 
-![SkyCast weather dashboard](docs/images/weather-app.png)
+![SkyCast in dark mode with current weather, Athens map, and hourly humidity chart](docs/images/weather-app.png)
+
+![SkyCast in dark mode with hourly wind speed and gust charts](docs/images/weather-app-wind.png)
 
 ## Features
 
